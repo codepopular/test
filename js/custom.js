@@ -1,0 +1,6 @@
+(function ($) {
+    $('.venobox').venobox(); 
+
+    
+
+})(jQuery);
